@@ -1,0 +1,33 @@
+.rodape_container {
+    position: relative;
+    background-color: #6278F7;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.rodape__social {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.rodape__midia {
+    padding-right: 3rem;
+}
+
+h3 {
+    color: white;
+    font-size: 16;
+    font-family: 'Monserrat', sans-serif;
+}
+
+
+
+
+
+
